@@ -30,7 +30,7 @@ __________________________________________________________
 
 <img width="486" alt="화면 캡처 2023-11-07 143400" src="https://github.com/GSMIOTjgh/pochundea/assets/132252115/af10703e-03f4-4765-9501-f5651b263db8">
 
-<img width="285" alt="화면 캡처 2023-11-07 143627" src="https://github.com/GSMIOTjgh/pochundea/assets/132252115/b5f7c022-d3ff-4cdd-b920-09a95741dbbb">
+<img width="485" alt="화면 캡처 2023-11-07 143627" src="https://github.com/GSMIOTjgh/pochundea/assets/132252115/b5f7c022-d3ff-4cdd-b920-09a95741dbbb">
 
 <img width="494" alt="화면 캡처 2023-11-07 143647" src="https://github.com/GSMIOTjgh/pochundea/assets/132252115/af0018ef-974c-4ce4-9778-340ed42644ec">
 
