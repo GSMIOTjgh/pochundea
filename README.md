@@ -32,7 +32,7 @@ __________________________________________________________
 
 <img width="685" alt="화면 캡처 2023-11-07 143627" src="https://github.com/GSMIOTjgh/pochundea/assets/132252115/b5f7c022-d3ff-4cdd-b920-09a95741dbbb">
 
-<img width="494" alt="화면 캡처 2023-11-07 143647" src="https://github.com/GSMIOTjgh/pochundea/assets/132252115/af0018ef-974c-4ce4-9778-340ed42644ec">
+<img width="694" alt="화면 캡처 2023-11-07 143647" src="https://github.com/GSMIOTjgh/pochundea/assets/132252115/af0018ef-974c-4ce4-9778-340ed42644ec">
 
 이런식으로 깔끔하게 나눠놨다.
 
