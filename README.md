@@ -10,6 +10,7 @@
 
 <img width="553" alt="화면 캡처 2023-11-07 142415" src="https://github.com/GSMIOTjgh/pochundea/assets/132252115/3aeaa151-e2a8-4fee-ac92-583b21e5f89e">
 
+
 <img width="350" alt="화면 캡처 2023-11-07 142538" src="https://github.com/GSMIOTjgh/pochundea/assets/132252115/980cbeb1-cb60-4709-bbdd-64592a240096">
 
 
