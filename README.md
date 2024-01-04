@@ -3,7 +3,7 @@
 _______________________________________________
 
 # 참고
-https://github.com/GSMIOTjgh/pochundea/issues/1
+[포춘디어 최소 필요 기능](https://github.com/GSMIOTjgh/pochundea/issues/1)
 
 _______________________________________________
 
